@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Agrawal</h1>
 <h3 align="center">A Machine Learning and Web development enthusiast from India.I Enjoy doing DSA and Leetcode questions.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanagrawal5&label=Profile%20views&color=0e75b6&style=flat" alt="namanagrawal5" /> </p>
 
