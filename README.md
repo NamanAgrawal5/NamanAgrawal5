@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanagrawal5" alt="namanagrawal5" /></a> </p>
 
-- 🔭 I’m currently working on [SimonSaysGame](https://github.com/NamanAgrawal5/SimonSaysgame)
+- 🔭 I’m currently working on [Toxic Comment Analyser](https://github.com/NamanAgrawal5/Toxic-Comment-Analyser)
 
 - 🌱 I’m currently learning **MERNSTACK,NEURAL NETWORKS**
 
