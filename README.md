@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [2 ⭐ in codechef, Web Development, intern at YBI](2 ⭐ in codechef, Web Development, intern at YBI)
 
 - ⚡ Fun fact **I think I am good in Table Tennis and Computer games**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/namanagrawal57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="namanagrawal57" height="30" width="40" /></a>
