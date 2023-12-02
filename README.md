@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanagrawal5" alt="namanagrawal5" /></a> </p>
 
-- 🔭 I’m currently working on [Eventogram](https://github.com/NamanAgrawal5/Eventogram)
+- 🔭 I’m currently working on [Sonara](https://github.com/NamanAgrawal5/Sonara)
 
-- 🌱 I’m currently learning **Defi Apps**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 🤝 I’m looking for help with **WEB3**
+- 🤝 I’m looking for help with **WEB**
 
 - 💬 Ask me about **MERN, CP, Machine Learning**
 
 - 📫 How to reach me **namanagarwal578@gmail.com**
 
-- 📄 Know about my experiences [2 ⭐ in codechef, Web Development, intern at YBI](2 ⭐ in codechef, Web Development, intern at YBI)
+- 📄 Know about my experiences [3 ⭐ in codechef, Web Development, intern at YBI](3 ⭐ in codechef, Web Development, intern at YBI)
 
 - ⚡ Fun fact **I think I am good in Table Tennis and Computer games**
  
